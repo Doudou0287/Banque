@@ -1,0 +1,21 @@
+Operation: 1
+Agent: Jean
+Produit: Prets Immobilier
+Nom: Prets265
+Prix: 300000
+Interet: 1.5%
+Adresse: 13 rue de paris
+Date: 02/05/2020
+
+Operation: 2
+Agent: Timothy
+Produit: Assurance Auto
+Nom: Assurance3645
+Prix: 100
+Duree: 3 Ans
+NomAuto: Voiture
+Mark: Citroen
+Prix: 40000
+Sinistre: 5
+EngineSize: 1.5 L
+

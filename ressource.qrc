@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>bank.jpg</file>
+    </qresource>
+    <qresource prefix="/ag1">
+        <file>database/agence1/operations01012020</file>
+        <file>database/agence1/operations02012020</file>
+        <file>database/agence1/operations03012020</file>
+        <file>database/agence1/operations06012020</file>
+        <file>database/agence1/operations07012020</file>
+        <file>database/agence1/operations08012020</file>
+        <file>database/agence1/operations09012020</file>
+        <file>database/agence1/operations10012020</file>
+        <file>database/agence1/operations13012020</file>
+    </qresource>
+    <qresource prefix="/ag2">
+        <file>database/agence2/operations01012020</file>
+        <file>database/agence2/operations02012020</file>
+        <file>database/agence2/operations03012020</file>
+        <file>database/agence2/operations06012020</file>
+        <file>database/agence2/operations07012020</file>
+        <file>database/agence2/operations08012020</file>
+        <file>database/agence2/operations09012020</file>
+        <file>database/agence2/operations10012020</file>
+        <file>database/agence2/operations13012020</file>
+    </qresource>
+    <qresource prefix="/ag3">
+        <file>database/agence3/operations01012020</file>
+        <file>database/agence3/operations02012020</file>
+        <file>database/agence3/operations03012020</file>
+        <file>database/agence3/operations06012020</file>
+        <file>database/agence3/operations07012020</file>
+        <file>database/agence3/operations08012020</file>
+        <file>database/agence3/operations09012020</file>
+        <file>database/agence3/operations10012020</file>
+        <file>database/agence3/operations13012020</file>
+    </qresource>
+    <qresource prefix="/ag4">
+        <file>database/agence4/operations01012020</file>
+        <file>database/agence4/operations02012020</file>
+        <file>database/agence4/operations03012020</file>
+        <file>database/agence4/operations06012020</file>
+        <file>database/agence4/operations07012020</file>
+        <file>database/agence4/operations08012020</file>
+        <file>database/agence4/operations09012020</file>
+        <file>database/agence4/operations10012020</file>
+        <file>database/agence4/operations13012020</file>
+    </qresource>
+    <qresource prefix="/ag5">
+        <file>database/agence5/operations01012020</file>
+        <file>database/agence5/operations02012020</file>
+        <file>database/agence5/operations03012020</file>
+        <file>database/agence5/operations06012020</file>
+        <file>database/agence5/operations07012020</file>
+        <file>database/agence5/operations08012020</file>
+        <file>database/agence5/operations09012020</file>
+        <file>database/agence5/operations10012020</file>
+        <file>database/agence5/operations13012020</file>
+    </qresource>
+</RCC>

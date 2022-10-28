@@ -1,0 +1,58 @@
+Operation: 1
+Agent: Jean
+Produit: Prets Immobilier
+Nom: Prets265
+Prix: 300000
+Interet: 1.5%
+Adresse: 13 rue de paris
+Date: 02/05/2020
+
+Operation: 2
+Agent: Timothy
+Produit: Assurance Auto
+Nom: Assurance3645
+Prix: 100
+Duree: 3 Ans
+NomAuto: Voiture
+Mark: Citroen
+Prix: 40000
+Sinistre: 5
+EngineSize: 1.5 L
+
+Operation: 3
+Agent: Jean
+Produit: VisaCarte
+Nom: CB3525
+Prix: 0
+Plafond: 450
+Frais: 0
+Balance: 743.960
+
+Operation: 4
+Agent: Jean
+Produit: Chequiers
+Nom: Chequiers1225
+Prix: 0
+Plafond: 1500
+
+Operation: 5
+Agent: Julie
+Produit: Prets Consommation
+Nom: Prets268
+Prix: 3000
+Interet: 13.5%
+Date: 10/05/2020
+NomConso: Mimi
+
+Operation: 6
+Agent: Timothy
+Produit: Prets Auto
+Nom: Prets39
+Prix: 3000
+Interet: 3.5%
+Date: 12/04/2020
+NomAuto: Bus
+Mark: L1
+Prix: 238400
+Sinistre: 0
+EngineSize: 5000 cc

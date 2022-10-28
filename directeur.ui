@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>directeur</class>
+ <widget class="QDialog" name="directeur">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1211</width>
+    <height>451</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QCustomPlot" name="ag1" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>211</width>
+     <height>351</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QCustomPlot" name="ag2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>30</y>
+     <width>211</width>
+     <height>351</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QCustomPlot" name="ag3" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>30</y>
+     <width>211</width>
+     <height>351</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QCustomPlot" name="ag4" native="true">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>30</y>
+     <width>211</width>
+     <height>351</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QCustomPlot" name="ag5" native="true">
+   <property name="geometry">
+    <rect>
+     <x>950</x>
+     <y>30</y>
+     <width>211</width>
+     <height>351</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>380</y>
+     <width>111</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(34, 67, 53);
+font: 20pt &quot;Niagara Engraved&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>Agence1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>380</y>
+     <width>101</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(34, 67, 53);
+font: 20pt &quot;Niagara Engraved&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>Agence2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>380</y>
+     <width>101</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(34, 67, 53);
+font: 20pt &quot;Niagara Engraved&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>Agence3</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>380</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(34, 67, 53);
+font: 20pt &quot;Niagara Engraved&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>Agence4</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>1020</x>
+     <y>380</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(34, 67, 53);
+font: 20pt &quot;Niagara Engraved&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>Agence5</string>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QCustomPlot</class>
+   <extends>QWidget</extends>
+   <header>qcustomplot.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
