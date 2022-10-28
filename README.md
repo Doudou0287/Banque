@@ -6,4 +6,8 @@
 
 ![alt text](https://cdn.discordapp.com/attachments/696687136350666762/1035544912097181757/2022-10-28_16.png)
 
+## 1 Wireframe
 ![alt text](https://cdn.discordapp.com/attachments/696687136350666762/1035545728925323264/2022-10-28_18.png)
+
+## 2 Diagramme entité-relation:
+![alt text](https://cdn.discordapp.com/attachments/696687136350666762/1035546506746400839/2022-10-28_20.png)
